@@ -1,0 +1,14 @@
+{
+    "name": "zhaopeng/demo",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "zhaopeng",
+            "email": "2298462528@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
