@@ -1,11 +1,11 @@
 {
-    "name": "zhaopeng/demo",
+    "name": "zhaopeng-github/demo",
     "description": "test project",
     "type": "project",
     "license": "mit",
     "authors": [
         {
-            "name": "zhaopeng999",
+            "name": "zhaopeng-github",
             "email": "2298462528@qq.com"
         }
     ],
